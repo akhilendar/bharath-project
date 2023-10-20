@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bharath-project/static/css/main.d6be5b5b.css",
+    "main.js": "/bharath-project/static/js/main.11e99fbc.js",
+    "static/js/121.c41f6dc5.chunk.js": "/bharath-project/static/js/121.c41f6dc5.chunk.js",
+    "static/media/notification.svg?s3g3t9": "/bharath-project/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/bharath-project/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/bharath-project/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/bharath-project/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/bharath-project/index.html",
+    "main.d6be5b5b.css.map": "/bharath-project/static/css/main.d6be5b5b.css.map",
+    "main.11e99fbc.js.map": "/bharath-project/static/js/main.11e99fbc.js.map",
+    "121.c41f6dc5.chunk.js.map": "/bharath-project/static/js/121.c41f6dc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6be5b5b.css",
+    "static/js/main.11e99fbc.js"
+  ]
+}
